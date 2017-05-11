@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:stm32
 LIBS:switches
+LIBS:bin_clock_2-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -302,7 +303,7 @@ U 1 1 58F013C2
 P 1050 3250
 F 0 "Y1" H 1050 3400 50  0000 C CNN
 F 1 "Crystal" H 1050 3100 50  0000 C CNN
-F 2 "Crystals:Crystal_C38-LF_d3.0mm_l8.0mm_Vertical" H 1050 3250 50  0001 C CNN
+F 2 "Crystals:Crystal_HC49-4H_Vertical" H 1050 3250 50  0001 C CNN
 F 3 "" H 1050 3250 50  0001 C CNN
 	1    1050 3250
 	0    1    1    0   
@@ -484,17 +485,6 @@ F 3 "" H 1300 1900 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L CONN_01X02 J1
-U 1 1 58F03914
-P 1350 2900
-F 0 "J1" H 1350 3050 50  0000 C CNN
-F 1 "bat" V 1450 2900 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm" H 1350 2900 50  0001 C CNN
-F 3 "" H 1350 2900 50  0001 C CNN
-	1    1350 2900
-	0    1    1    0   
-$EndComp
-$Comp
 L +3.3V #PWR04
 U 1 1 58F03EB5
 P 1500 6600
@@ -503,17 +493,6 @@ F 1 "+3.3V" H 1500 6740 50  0000 C CNN
 F 2 "" H 1500 6600 50  0001 C CNN
 F 3 "" H 1500 6600 50  0001 C CNN
 	1    1500 6600
-	1    0    0    -1  
-$EndComp
-$Comp
-L LM1117-ADJ U2
-U 1 1 58F041E4
-P 9650 1550
-F 0 "U2" H 9750 1300 50  0000 C CNN
-F 1 "LM1117-ADJ" H 9650 1800 50  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:TO-252-2Lead" H 9650 1550 50  0001 C CNN
-F 3 "" H 9650 1550 50  0001 C CNN
-	1    9650 1550
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -722,44 +701,13 @@ Connection ~ 600  2400
 Wire Wire Line
 	1500 6600 1500 6700
 Connection ~ 1500 6700
-Wire Wire Line
-	8750 1550 9350 1550
 Connection ~ 9100 1550
 Wire Wire Line
 	9100 1600 9100 1550
 Wire Wire Line
 	9100 1900 9100 2400
-$Comp
-L R R13
-U 1 1 58F04A26
-P 10100 1750
-F 0 "R13" V 10180 1750 50  0000 C CNN
-F 1 "v1R" V 10100 1750 50  0000 C CNN
-F 2 "Resistors_SMD:R_0603_HandSoldering" V 10030 1750 50  0001 C CNN
-F 3 "" H 10100 1750 50  0001 C CNN
-	1    10100 1750
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R14
-U 1 1 58F04A9F
-P 10100 2150
-F 0 "R14" V 10180 2150 50  0000 C CNN
-F 1 "v2R" V 10100 2150 50  0000 C CNN
-F 2 "Resistors_SMD:R_0603_HandSoldering" V 10030 2150 50  0001 C CNN
-F 3 "" H 10100 2150 50  0001 C CNN
-	1    10100 2150
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
-	10100 1950 9650 1950
-Wire Wire Line
-	9650 1950 9650 1850
-Wire Wire Line
-	10100 1900 10100 2000
-Connection ~ 10100 1950
-Wire Wire Line
-	10100 2400 10100 2300
+	9650 1850 9650 2500
 Wire Wire Line
 	8750 2400 10400 2400
 $Comp
@@ -773,8 +721,6 @@ F 3 "" H 9650 2500 50  0001 C CNN
 	1    9650 2500
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	9650 2500 9650 2400
 Connection ~ 9650 2400
 $Comp
 L +3.3V #PWR06
@@ -787,11 +733,6 @@ F 3 "" H 10500 1550 50  0001 C CNN
 	1    10500 1550
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	9950 1550 10500 1550
-Wire Wire Line
-	10100 1600 10100 1550
-Connection ~ 10100 1550
 $Comp
 L CP C11
 U 1 1 58F051D8
@@ -808,7 +749,6 @@ Wire Wire Line
 Connection ~ 10400 1550
 Wire Wire Line
 	10400 2400 10400 2000
-Connection ~ 10100 2400
 $Comp
 L CONN_01X02 J2
 U 1 1 58F055FE
@@ -1012,14 +952,10 @@ $EndComp
 Wire Wire Line
 	1900 2600 1500 2600
 Wire Wire Line
-	1500 2500 1500 2700
-Wire Wire Line
-	1500 2700 1400 2700
+	1500 2500 1500 2850
 Connection ~ 1500 2600
 Wire Wire Line
-	1300 2700 1200 2700
-Wire Wire Line
-	1200 2700 1200 2500
+	1200 2500 1200 2850
 Wire Wire Line
 	1200 2600 600  2600
 Connection ~ 600  2600
@@ -1184,4 +1120,30 @@ Text Label 1600 4800 0    60   ~ 0
 h8
 Text Label 1600 4900 0    60   ~ 0
 PM
+$Comp
+L Battery_Cell BT1
+U 1 1 58F4CDD8
+P 1300 2850
+F 0 "BT1" V 1450 2850 50  0000 L CNN
+F 1 "cr2032" V 1350 2600 50  0000 L CNN
+F 2 "Battery_Holders:BS-7_CR2032" V 1300 2910 50  0001 C CNN
+F 3 "" V 1300 2910 50  0001 C CNN
+	1    1300 2850
+	0    1    1    0   
+$EndComp
+$Comp
+L LM7805CT U2
+U 1 1 58F4D90E
+P 9650 1600
+F 0 "U2" H 9450 1800 50  0000 C CNN
+F 1 "LM7805CT" H 9650 1800 50  0000 L CNN
+F 2 "TO_SOT_Packages_THT:TO-220_Vertical" H 9650 1700 50  0001 C CIN
+F 3 "" H 9650 1600 50  0001 C CNN
+	1    9650 1600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8750 1550 9250 1550
+Wire Wire Line
+	10050 1550 10500 1550
 $EndSCHEMATC

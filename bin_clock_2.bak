@@ -1174,4 +1174,14 @@ Text Label 1600 3600 0    60   ~ 0
 b3
 Text Label 1600 3700 0    60   ~ 0
 b4
+Text Label 1600 4500 0    60   ~ 0
+h1
+Text Label 1600 4600 0    60   ~ 0
+h2
+Text Label 1600 4700 0    60   ~ 0
+h4
+Text Label 1600 4800 0    60   ~ 0
+h8
+Text Label 1600 4900 0    60   ~ 0
+PM
 $EndSCHEMATC
