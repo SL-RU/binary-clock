@@ -35,52 +35,23 @@
 # 3) Execute: "mkdir build; cd build"
 # 4) Execute: "cmake ../; make"
 # 5) DONE
+cmake_minimum_required (VERSION 2.6)
 
 
 #USER CUSTOM SETTINGS
 #You can change values here. It's not recommended to change whole script
-set(OPT "-O0")
+set(OPT "-O3")
 set(USER_LINKER_FLAGS "-u _printf_float")
 set(USER_CFLAGS "")
+set(USER_COMPILER "Clang") # "Clang" or "GNU"
+set(USER_DEBUG TRUE) # Or "False"
 
 #You cam add your own defenitions
 add_definitions(-DIS_STM32=1)
 #add_definitions(-DYour_defenition=here)
-
-#generate compile_commands.json
-set(CMAKE_EXPORT_COMPILE_COMMANDS "ON")
 #USER END
 
 #CMAKE
-cmake_minimum_required (VERSION 2.6)
-include(CMakeForceCompiler)
-
-# Targeting an embedded system, not OS.
-set(CMAKE_SYSTEM_NAME Generic)
-set(CMAKE_SYSTEM Generic)
-SET(CMAKE_SYSTEM_PROCESSOR arm)
-SET(CMAKE_CROSSCOMPILING   1)
-
-#CONFIGURE GCC TOOLCHAIN
-SET(TOOL_EXECUTABLE_SUFFIX "")
-SET(TOOLCHAIN_PREFIX   "/usr")
-SET(TARGET_TRIPLET     "arm-none-eabi")
-SET(TOOLCHAIN_BIN_DIR  ${TOOLCHAIN_PREFIX}/bin)
-SET(TOOLCHAIN_INC_DIR  ${TOOLCHAIN_PREFIX}/${TARGET_TRIPLET}/include)
-SET(TOOLCHAIN_LIB_DIR  ${TOOLCHAIN_PREFIX}/${TARGET_TRIPLET}/lib)
-
-CMAKE_FORCE_C_COMPILER(arm-none-eabi-gcc GNU)
-CMAKE_FORCE_CXX_COMPILER(arm-none-eabi-g++ GNU)
-set(CMAKE_ASM_COMPILER ${TOOLCHAIN_BIN_DIR}/${TARGET_TRIPLET}-gcc${TOOL_EXECUTABLE_SUFFIX})
-
-SET(CMAKE_OBJCOPY      ${TOOLCHAIN_BIN_DIR}/${TARGET_TRIPLET}-objcopy${TOOL_EXECUTABLE_SUFFIX} CACHE INTERNAL "objcopy tool")
-SET(CMAKE_OBJDUMP      ${TOOLCHAIN_BIN_DIR}/${TARGET_TRIPLET}-objdump${TOOL_EXECUTABLE_SUFFIX} CACHE INTERNAL "objdump tool")
-SET(CMAKE_SIZE         ${TOOLCHAIN_BIN_DIR}/${TARGET_TRIPLET}-size${TOOL_EXECUTABLE_SUFFIX} CACHE INTERNAL "size tool")
-SET(CMAKE_DEBUGER      ${TOOLCHAIN_BIN_DIR}/${TARGET_TRIPLET}-gdb${TOOL_EXECUTABLE_SUFFIX} CACHE INTERNAL "debuger")
-
-set(CMAKE_SHARED_LIBRARY_LINK_C_FLAGS "") #remove -rdynamic
-enable_language(C ASM)
-
 
 #LOAD CUBE MX CONFIGURATION
 #USING PYTHON SCRIPT CubeMX2_cmake.py
@@ -121,8 +92,18 @@ string(REPLACE " " "" STM32_PRJ_LD_SCRIPT ${STM32_PRJ_LD_SCRIPT})
 string(REPLACE "\n" "" STM32_PRJ_LD_SCRIPT ${STM32_PRJ_LD_SCRIPT})
 set(STM32_PRJ_LD_SCRIPT "${cubemx_dir}/${STM32_PRJ_LD_SCRIPT}")
 
-#start project
+if(POLICY CMP0012)
+    cmake_policy(SET CMP0012 NEW)
+endif()
+
 project(${STM32_PRJ_NAME})
+set(CMAKE_C_COMPILER_ID ${USER_COMPILER})
+if(${USER_DEBUG})
+  set(CMAKE_BUILD_TYPE "Debug")
+else(${USER_DEBUG})
+  set(CMAKE_BUILD_TYPE "Release")
+endif(${USER_DEBUG})
+include("CMakeSetCompiler.cmake")
 
 #find and add all headers & sources & asm to target
 MACRO(HEADER_DIRECTORIES return_list)
@@ -136,8 +117,10 @@ MACRO(HEADER_DIRECTORIES return_list)
     SET(${return_list} ${dir_list})
 ENDMACRO()
 
+
 #HEADERS
 header_directories(INC)
+#set(INC "${INC};/usr/lib/gcc/arm-none-eabi/7.2.0/include;/usr/lib/gcc/arm-none-eabi/7.2.0/include-fixed;/usr/arm-none-eabi/include/")
 include_directories(${INC})
 
 #SOURCES
@@ -166,13 +149,19 @@ foreach(def ${STM32_PRJ_DEFS})
 endforeach()
 
 #setup flags
-set(CMAKE_C_FLAGS "${STM32_PRJ_CFLAGS} ${OPT} -Wall -fdata-sections -ffunction-sections -std=c99 -g -gdwarf-2 ${USER_CFLAGS}")
+
+set(CMAKE_C_FLAGS "${EXTERN_C_FLAGS} ${CMAKE_C_FLAGS} ${STM32_PRJ_CFLAGS} ${OPT} ${USER_CFLAGS}")
+set(CMAKE_CXX_FLAGS "${EXTERN_C_FLAGS} ${CMAKE_CXX_FLAGS} ${STM32_PRJ_CFLAGS} ${OPT} ${USER_CFLAGS}")
+set(CMAKE_ASM_FLAGS "${CMAKE_ASM_FLAGS} ${STM32_PRJ_CFLAGS} ${OPT} ${USER_CFLAGS}")
+
+
 set(LDSCRIPT "-T${STM32_PRJ_LD_SCRIPT}")
-set(LINKER_FLAGS "-specs=nosys.specs ${LDSCRIPT} -lc -lm -lnosys -Wl,--gc-sections ${USER_LINKER_FLAGS}")
+set(LINKER_FLAGS "-specs=nosys.specs ${LDSCRIPT} -lc -lm -lnosys -Wl,--gc-sections ${STM32_PRJ_CFLAGS} ${OPT} ${USER_LINKER_FLAGS} ")
 SET(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} ${LINKER_FLAGS}")
 
 
 SET(TARGET ${CMAKE_PROJECT_NAME})
+message(${CMAKE_C_COMPILER})
 
 #setup targets
 get_directory_property(C_DEFS COMPILE_DEFINITIONS)
