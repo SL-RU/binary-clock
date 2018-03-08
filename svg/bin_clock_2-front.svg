@@ -41,13 +41,13 @@
      inkscape:window-height="1037"
      id="namedview10841"
      showgrid="false"
-     inkscape:zoom="0.59466272"
-     inkscape:cx="268.30397"
-     inkscape:cy="475.81232"
+     inkscape:zoom="0.84098008"
+     inkscape:cx="568.98619"
+     inkscape:cy="325.78292"
      inkscape:window-x="1280"
      inkscape:window-y="41"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <title
      id="title8983">SVG Picture created as bin_clock_2-F.Cu.svg date 2018/02/28 21:59:43 </title>
   <desc
@@ -217,245 +217,6 @@
      id="layer2"
      inkscape:label="Layer 2"
      style="opacity:1">
-    <rect
-       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:#fcfcfc;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3502"
-       width="26473.201"
-       height="22529.816"
-       x="71447.719"
-       y="46979.801" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5351"
-       cx="79772.539"
-       cy="64050.766"
-       r="930.6037" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path5258"
-       cx="93551.258"
-       cy="48877.488"
-       r="748.99982" />
-    <circle
-       r="748.99982"
-       cy="48877.488"
-       cx="90799.102"
-       id="circle5269"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5271"
-       cx="88083.977"
-       cy="48877.488"
-       r="748.99982" />
-    <circle
-       r="748.99982"
-       cy="48877.488"
-       cx="85292.211"
-       id="circle5273"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5275"
-       cx="75789.273"
-       cy="48877.488"
-       r="748.99982" />
-    <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path5281"
-       cx="73646.492"
-       cy="48878.266"
-       rx="317.3457"
-       ry="330.72653" />
-    <ellipse
-       ry="330.72653"
-       rx="317.3457"
-       cy="48878.266"
-       cx="96484.211"
-       id="ellipse5283"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="ellipse5285"
-       cx="96484.211"
-       cy="67183.477"
-       rx="317.3457"
-       ry="330.72653" />
-    <ellipse
-       ry="330.72653"
-       rx="317.3457"
-       cy="67183.477"
-       cx="73646.492"
-       id="ellipse5287"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="748.99982"
-       cy="64050.766"
-       cx="93551.258"
-       id="circle5289"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5291"
-       cx="90799.102"
-       cy="64050.766"
-       r="748.99982" />
-    <circle
-       r="748.99982"
-       cy="64050.766"
-       cx="88083.977"
-       id="circle5293"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5295"
-       cx="85292.211"
-       cy="64050.766"
-       r="748.99982" />
-    <circle
-       r="748.99982"
-       cy="64050.766"
-       cx="75789.273"
-       id="circle5297"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="930.6037"
-       cy="64050.766"
-       cx="82489.797"
-       id="circle5299"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="78856.852"
-       y="64604.938"
-       id="text5329"><tspan
-         sodipodi:role="line"
-         id="tspan5327"
-         x="78856.852"
-         y="64604.938"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">32</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="93147.922"
-       y="49433.324"
-       id="text5305"><tspan
-         sodipodi:role="line"
-         id="tspan5303"
-         x="93147.922"
-         y="49433.324"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">1</tspan></text>
-    <text
-       id="text5309"
-       y="49440.824"
-       x="90354.102"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="49440.824"
-         x="90354.102"
-         id="tspan5307"
-         sodipodi:role="line">2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="87650.641"
-       y="49451.656"
-       id="text5313"><tspan
-         sodipodi:role="line"
-         id="tspan5311"
-         x="87650.641"
-         y="49451.656"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">4</tspan></text>
-    <text
-       id="text5317"
-       y="49431.656"
-       x="84835.547"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="49431.656"
-         x="84835.547"
-         id="tspan5315"
-         sodipodi:role="line">8</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="74611.82"
-       y="49432.488"
-       id="text5321"><tspan
-         sodipodi:role="line"
-         id="tspan5319"
-         x="74611.82"
-         y="49432.488"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">AM</tspan></text>
-    <text
-       id="text5325"
-       y="64389.102"
-       x="74734.086"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="64389.102"
-         x="74734.086"
-         id="tspan5323"
-         sodipodi:role="line">sec</tspan></text>
-    <text
-       id="text5333"
-       y="64604.938"
-       x="81467.438"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="64604.938"
-         x="81467.438"
-         id="tspan5331"
-         sodipodi:role="line">16</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="84835.547"
-       y="64604.938"
-       id="text5337"><tspan
-         sodipodi:role="line"
-         id="tspan5335"
-         x="84835.547"
-         y="64604.938"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">8</tspan></text>
-    <text
-       id="text5341"
-       y="64624.938"
-       x="87650.641"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="64624.938"
-         x="87650.641"
-         id="tspan5339"
-         sodipodi:role="line">4</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="90354.102"
-       y="64614.102"
-       id="text5345"><tspan
-         sodipodi:role="line"
-         id="tspan5343"
-         x="90354.102"
-         y="64614.102"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">2</tspan></text>
-    <text
-       id="text5349"
-       y="64606.602"
-       x="93147.922"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="64606.602"
-         x="93147.922"
-         id="tspan5347"
-         sodipodi:role="line">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2222.22412109px;line-height:2604.16870117px;font-family:Hack;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:104.16674805;-inkscape-font-specification:Hack;font-stretch:normal;font-variant:normal;"
@@ -467,289 +228,6 @@
          x="58959.035"
          y="41299.996"
          style="stroke-width:104.16674805;-inkscape-font-specification:FuturaLightC;font-family:FuturaLightC;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2222.22412109px;line-height:2604.16870117px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="76766.469"
-       y="57188.688"
-       id="text5385"><tspan
-         sodipodi:role="line"
-         id="tspan5383"
-         x="76766.469"
-         y="57188.688"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;stroke-width:104.16674805">DETERMINATION</tspan></text>
-    <rect
-       y="46979.801"
-       x="25432.422"
-       height="22529.816"
-       width="26473.201"
-       id="rect5411"
-       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:#fcfcfc;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="930.6037"
-       cy="64050.766"
-       cx="33757.246"
-       id="circle5413"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       r="748.99982"
-       cy="48877.488"
-       cx="47535.961"
-       id="circle5415"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5417"
-       cx="44783.805"
-       cy="48877.488"
-       r="748.99982" />
-    <circle
-       r="748.99982"
-       cy="48877.488"
-       cx="42068.68"
-       id="circle5419"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5421"
-       cx="39276.914"
-       cy="48877.488"
-       r="748.99982" />
-    <circle
-       r="748.99982"
-       cy="48877.488"
-       cx="29773.977"
-       id="circle5423"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <ellipse
-       ry="330.72653"
-       rx="317.3457"
-       cy="48878.266"
-       cx="27631.199"
-       id="ellipse5425"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="ellipse5427"
-       cx="50468.914"
-       cy="48878.266"
-       rx="317.3457"
-       ry="330.72653" />
-    <ellipse
-       ry="330.72653"
-       rx="317.3457"
-       cy="67183.477"
-       cx="50468.914"
-       id="ellipse5429"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="ellipse5431"
-       cx="27631.199"
-       cy="67183.477"
-       rx="317.3457"
-       ry="330.72653" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5433"
-       cx="47535.961"
-       cy="64050.766"
-       r="748.99982" />
-    <circle
-       r="748.99982"
-       cy="64050.766"
-       cx="44783.805"
-       id="circle5435"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5437"
-       cx="42068.68"
-       cy="64050.766"
-       r="748.99982" />
-    <circle
-       r="748.99982"
-       cy="64050.766"
-       cx="39276.914"
-       id="circle5439"
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5441"
-       cx="29773.977"
-       cy="64050.766"
-       r="748.99982" />
-    <circle
-       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="circle5443"
-       cx="36474.5"
-       cy="64050.766"
-       r="930.6037" />
-    <text
-       id="text5447"
-       y="64604.938"
-       x="32841.555"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="64604.938"
-         x="32841.555"
-         id="tspan5445"
-         sodipodi:role="line">32</tspan></text>
-    <text
-       id="text5451"
-       y="49433.324"
-       x="47132.625"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="49433.324"
-         x="47132.625"
-         id="tspan5449"
-         sodipodi:role="line">1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="44338.805"
-       y="49440.824"
-       id="text5455"><tspan
-         sodipodi:role="line"
-         id="tspan5453"
-         x="44338.805"
-         y="49440.824"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">2</tspan></text>
-    <text
-       id="text5459"
-       y="49451.656"
-       x="41635.344"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="49451.656"
-         x="41635.344"
-         id="tspan5457"
-         sodipodi:role="line">4</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="38820.25"
-       y="49431.656"
-       id="text5463"><tspan
-         sodipodi:role="line"
-         id="tspan5461"
-         x="38820.25"
-         y="49431.656"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">8</tspan></text>
-    <text
-       id="text5467"
-       y="49432.488"
-       x="28596.527"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="49432.488"
-         x="28596.527"
-         id="tspan5465"
-         sodipodi:role="line">AM</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="28718.793"
-       y="64389.102"
-       id="text5471"><tspan
-         sodipodi:role="line"
-         id="tspan5469"
-         x="28718.793"
-         y="64389.102"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">sec</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="35452.141"
-       y="64604.938"
-       id="text5475"><tspan
-         sodipodi:role="line"
-         id="tspan5473"
-         x="35452.141"
-         y="64604.938"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">16</tspan></text>
-    <text
-       id="text5479"
-       y="64604.938"
-       x="38820.25"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="64604.938"
-         x="38820.25"
-         id="tspan5477"
-         sodipodi:role="line">8</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="41635.344"
-       y="64624.938"
-       id="text5483"><tspan
-         sodipodi:role="line"
-         id="tspan5481"
-         x="41635.344"
-         y="64624.938"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">4</tspan></text>
-    <text
-       id="text5487"
-       y="64614.102"
-       x="44338.805"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
-         y="64614.102"
-         x="44338.805"
-         id="tspan5485"
-         sodipodi:role="line">2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="47132.625"
-       y="64606.602"
-       id="text5491"><tspan
-         sodipodi:role="line"
-         id="tspan5489"
-         x="47132.625"
-         y="64606.602"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">1</tspan></text>
-    <text
-       id="text5495"
-       y="57188.688"
-       x="32630.805"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2222.22412109px;line-height:2604.16870117px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;stroke-width:104.16674805"
-         y="57188.688"
-         x="32630.805"
-         id="tspan5493"
-         sodipodi:role="line">INSPIRATION</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2222.22412109px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       x="84223.844"
-       y="67387.641"
-       id="text5499"><tspan
-         sodipodi:role="line"
-         id="tspan5497"
-         x="84223.844"
-         y="67387.641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:833.33404541px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;stroke-width:104.16674805">designed by Axlexander Lutsai</tspan></text>
-    <text
-       id="text5503"
-       y="67387.641"
-       x="38208.547"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2222.22412109px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:104.16674805"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:833.33404541px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;stroke-width:104.16674805"
-         y="67387.641"
-         x="38208.547"
-         id="tspan5501"
-         sodipodi:role="line">designed by Axlexander Lutsai</tspan></text>
     <rect
        y="9944.6074"
        x="71447.719"
@@ -794,33 +272,33 @@
        id="circle5536"
        style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
-       ry="330.72653"
-       rx="317.3457"
+       ry="116.63924"
+       rx="111.92015"
        cy="11843.072"
        cx="73646.492"
        id="ellipse5538"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:147.31863403;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:130.05200195;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse5540"
        cx="96484.211"
        cy="11843.072"
-       rx="317.3457"
-       ry="330.72653" />
+       rx="98.802429"
+       ry="102.96841" />
     <ellipse
-       ry="330.72653"
-       rx="317.3457"
+       ry="97.176765"
+       rx="93.245102"
        cy="30148.283"
        cx="96484.211"
        id="ellipse5542"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:122.73697662;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:130.05200195;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse5544"
        cx="73646.492"
        cy="30148.283"
-       rx="317.3457"
-       ry="330.72653" />
+       rx="98.802429"
+       ry="102.96841" />
     <circle
        style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle5546"
@@ -1044,33 +522,33 @@
        cy="11842.295"
        r="748.99982" />
     <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:122.73697662;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse5624"
        cx="27631.199"
        cy="11843.072"
-       rx="317.3457"
-       ry="330.72653" />
+       rx="93.245102"
+       ry="97.176765" />
     <ellipse
-       ry="330.72653"
-       rx="317.3457"
+       ry="77.714279"
+       rx="74.570045"
        cy="11843.072"
        cx="50468.914"
        id="ellipse5626"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:98.15531921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:98.15531921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse5628"
        cx="50468.914"
        cy="30148.283"
-       rx="317.3457"
-       ry="330.72653" />
+       rx="74.570045"
+       ry="77.714279" />
     <ellipse
-       ry="330.72653"
-       rx="317.3457"
+       ry="97.176765"
+       rx="93.245102"
        cy="30148.283"
        cx="27631.199"
        id="ellipse5630"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:122.73697662;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
        r="748.99982"
        cy="27015.572"
@@ -1272,6 +750,528 @@
          x="38208.547"
          y="30352.447"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:833.33404541px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;stroke-width:104.16674805">designed by Axlexander Lutsai</tspan></text>
+    <rect
+       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:#fcfcfc;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5704"
+       width="26473.201"
+       height="22529.816"
+       x="71447.719"
+       y="46732.074" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5706"
+       cx="79772.539"
+       cy="63803.039"
+       r="930.6037" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5708"
+       cx="93551.258"
+       cy="48629.762"
+       r="748.99982" />
+    <circle
+       r="748.99982"
+       cy="48629.762"
+       cx="90799.102"
+       id="circle5710"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5712"
+       cx="88083.977"
+       cy="48629.762"
+       r="748.99982" />
+    <circle
+       r="748.99982"
+       cy="48629.762"
+       cx="85292.211"
+       id="circle5714"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5716"
+       cx="75789.273"
+       cy="48629.762"
+       r="748.99982" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:147.31863403;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse5718"
+       cx="73646.492"
+       cy="48630.539"
+       rx="111.92015"
+       ry="116.63924" />
+    <ellipse
+       ry="102.96841"
+       rx="98.802429"
+       cy="48630.539"
+       cx="96484.211"
+       id="ellipse5720"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:130.05200195;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:122.73697662;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse5722"
+       cx="96484.211"
+       cy="66935.75"
+       rx="93.245102"
+       ry="97.176765" />
+    <ellipse
+       ry="102.96841"
+       rx="98.802429"
+       cy="66935.75"
+       cx="73646.492"
+       id="ellipse5724"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:130.05200195;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="748.99982"
+       cy="63803.039"
+       cx="93551.258"
+       id="circle5726"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5728"
+       cx="90799.102"
+       cy="63803.039"
+       r="748.99982" />
+    <circle
+       r="748.99982"
+       cy="63803.039"
+       cx="88083.977"
+       id="circle5730"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5732"
+       cx="85292.211"
+       cy="63803.039"
+       r="748.99982" />
+    <circle
+       r="748.99982"
+       cy="63803.039"
+       cx="75789.273"
+       id="circle5734"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="930.6037"
+       cy="63803.039"
+       cx="82489.797"
+       id="circle5736"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="78856.852"
+       y="64357.211"
+       id="text5740"><tspan
+         sodipodi:role="line"
+         id="tspan5738"
+         x="78856.852"
+         y="64357.211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">32</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="93147.922"
+       y="49185.598"
+       id="text5744"><tspan
+         sodipodi:role="line"
+         id="tspan5742"
+         x="93147.922"
+         y="49185.598"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">1</tspan></text>
+    <text
+       id="text5748"
+       y="49193.098"
+       x="90354.102"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="49193.098"
+         x="90354.102"
+         id="tspan5746"
+         sodipodi:role="line">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="87650.641"
+       y="49203.93"
+       id="text5752"><tspan
+         sodipodi:role="line"
+         id="tspan5750"
+         x="87650.641"
+         y="49203.93"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">4</tspan></text>
+    <text
+       id="text5756"
+       y="49183.93"
+       x="84835.547"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="49183.93"
+         x="84835.547"
+         id="tspan5754"
+         sodipodi:role="line">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="74611.82"
+       y="49184.762"
+       id="text5760"><tspan
+         sodipodi:role="line"
+         id="tspan5758"
+         x="74611.82"
+         y="49184.762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">AM</tspan></text>
+    <text
+       id="text5764"
+       y="64141.375"
+       x="74734.086"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="64141.375"
+         x="74734.086"
+         id="tspan5762"
+         sodipodi:role="line">sec</tspan></text>
+    <text
+       id="text5768"
+       y="64357.211"
+       x="81467.438"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="64357.211"
+         x="81467.438"
+         id="tspan5766"
+         sodipodi:role="line">16</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="84835.547"
+       y="64357.211"
+       id="text5772"><tspan
+         sodipodi:role="line"
+         id="tspan5770"
+         x="84835.547"
+         y="64357.211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">8</tspan></text>
+    <text
+       id="text5776"
+       y="64377.211"
+       x="87650.641"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="64377.211"
+         x="87650.641"
+         id="tspan5774"
+         sodipodi:role="line">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="90354.102"
+       y="64366.375"
+       id="text5780"><tspan
+         sodipodi:role="line"
+         id="tspan5778"
+         x="90354.102"
+         y="64366.375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">2</tspan></text>
+    <text
+       id="text5784"
+       y="64358.875"
+       x="93147.922"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="64358.875"
+         x="93147.922"
+         id="tspan5782"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2222.22412109px;line-height:2604.16870117px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="76766.469"
+       y="56940.961"
+       id="text5788"><tspan
+         sodipodi:role="line"
+         id="tspan5786"
+         x="76766.469"
+         y="56940.961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;stroke-width:104.16674805">DETERMINATION</tspan></text>
+    <rect
+       y="46732.074"
+       x="25432.422"
+       height="22529.816"
+       width="26473.201"
+       id="rect5790"
+       style="opacity:1;fill:#fefefe;fill-opacity:1;stroke:#fcfcfc;stroke-width:417.71688843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="930.6037"
+       cy="63803.039"
+       cx="33757.246"
+       id="circle5792"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="748.99982"
+       cy="48629.762"
+       cx="47535.961"
+       id="circle5794"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5796"
+       cx="44783.805"
+       cy="48629.762"
+       r="748.99982" />
+    <circle
+       r="748.99982"
+       cy="48629.762"
+       cx="42068.68"
+       id="circle5798"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5800"
+       cx="39276.914"
+       cy="48629.762"
+       r="748.99982" />
+    <circle
+       r="748.99982"
+       cy="48629.762"
+       cx="29773.977"
+       id="circle5802"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="97.176765"
+       rx="93.245102"
+       cy="48630.539"
+       cx="27631.199"
+       id="ellipse5804"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:122.73697662;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:98.15531921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse5806"
+       cx="50468.914"
+       cy="48630.539"
+       rx="74.570045"
+       ry="77.714279" />
+    <ellipse
+       ry="77.714279"
+       rx="74.570045"
+       cy="66935.75"
+       cx="50468.914"
+       id="ellipse5808"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:98.15531921;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:122.73697662;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse5810"
+       cx="27631.199"
+       cy="66935.75"
+       rx="93.245102"
+       ry="97.176765" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5812"
+       cx="47535.961"
+       cy="63803.039"
+       r="748.99982" />
+    <circle
+       r="748.99982"
+       cy="63803.039"
+       cx="44783.805"
+       id="circle5814"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5816"
+       cx="42068.68"
+       cy="63803.039"
+       r="748.99982" />
+    <circle
+       r="748.99982"
+       cy="63803.039"
+       cx="39276.914"
+       id="circle5818"
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5820"
+       cx="29773.977"
+       cy="63803.039"
+       r="748.99982" />
+    <circle
+       style="opacity:1;fill:#f4f4f4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5822"
+       cx="36474.5"
+       cy="63803.039"
+       r="930.6037" />
+    <text
+       id="text5826"
+       y="64357.211"
+       x="32841.555"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="64357.211"
+         x="32841.555"
+         id="tspan5824"
+         sodipodi:role="line">32</tspan></text>
+    <text
+       id="text5830"
+       y="49185.598"
+       x="47132.625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="49185.598"
+         x="47132.625"
+         id="tspan5828"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="44338.805"
+       y="49193.098"
+       id="text5834"><tspan
+         sodipodi:role="line"
+         id="tspan5832"
+         x="44338.805"
+         y="49193.098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">2</tspan></text>
+    <text
+       id="text5838"
+       y="49203.93"
+       x="41635.344"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="49203.93"
+         x="41635.344"
+         id="tspan5836"
+         sodipodi:role="line">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="38820.25"
+       y="49183.93"
+       id="text5842"><tspan
+         sodipodi:role="line"
+         id="tspan5840"
+         x="38820.25"
+         y="49183.93"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">8</tspan></text>
+    <text
+       id="text5846"
+       y="49184.762"
+       x="28596.527"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="49184.762"
+         x="28596.527"
+         id="tspan5844"
+         sodipodi:role="line">AM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="28718.793"
+       y="64141.375"
+       id="text5850"><tspan
+         sodipodi:role="line"
+         id="tspan5848"
+         x="28718.793"
+         y="64141.375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">sec</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="35452.141"
+       y="64357.211"
+       id="text5854"><tspan
+         sodipodi:role="line"
+         id="tspan5852"
+         x="35452.141"
+         y="64357.211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">16</tspan></text>
+    <text
+       id="text5858"
+       y="64357.211"
+       x="38820.25"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="64357.211"
+         x="38820.25"
+         id="tspan5856"
+         sodipodi:role="line">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="41635.344"
+       y="64377.211"
+       id="text5862"><tspan
+         sodipodi:role="line"
+         id="tspan5860"
+         x="41635.344"
+         y="64377.211"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">4</tspan></text>
+    <text
+       id="text5866"
+       y="64366.375"
+       x="44338.805"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805"
+         y="64366.375"
+         x="44338.805"
+         id="tspan5864"
+         sodipodi:role="line">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="47132.625"
+       y="64358.875"
+       id="text5870"><tspan
+         sodipodi:role="line"
+         id="tspan5868"
+         x="47132.625"
+         y="64358.875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1666.66809082px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;fill:#030303;fill-opacity:1;stroke-width:104.16674805">1</tspan></text>
+    <text
+       id="text5874"
+       y="56940.961"
+       x="32630.805"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2222.22412109px;line-height:2604.16870117px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;stroke-width:104.16674805"
+         y="56940.961"
+         x="32630.805"
+         id="tspan5872"
+         sodipodi:role="line">INSPIRATION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2222.22412109px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       x="84223.844"
+       y="67139.914"
+       id="text5878"><tspan
+         sodipodi:role="line"
+         id="tspan5876"
+         x="84223.844"
+         y="67139.914"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:833.33404541px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;stroke-width:104.16674805">designed by Axlexander Lutsai</tspan></text>
+    <text
+       id="text5882"
+       y="67139.914"
+       x="38208.547"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2222.22412109px;line-height:2604.16870117px;font-family:Hack;-inkscape-font-specification:Hack;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:104.16674805"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:833.33404541px;font-family:FuturaLightC;-inkscape-font-specification:FuturaLightC;stroke-width:104.16674805"
+         y="67139.914"
+         x="38208.547"
+         id="tspan5880"
+         sodipodi:role="line">designed by Axlexander Lutsai</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
